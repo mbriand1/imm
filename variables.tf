@@ -4,7 +4,7 @@
 variable "api_key" {
     description = "API Key for Intersight Account"
     type = string
-    default = "59af0e11f11aa10001678016/59af0ceef11aa100016748f0/61f043507564612d33eda2d3"
+    default = "5ced68e07564612d30f32a9d/5fc7adc87564612d33ca6b9f/63320bf87564612d334151f2"
 }
 
 variable "secretkey" {
